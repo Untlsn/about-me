@@ -3,4 +3,5 @@ node_modules
 public
 .idea
 yarn-error.log
-.idea/workspace.xml
+.netlify
+.env

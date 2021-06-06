@@ -14,7 +14,7 @@
     "gatsby:clean": "gatsby clean",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "bootstrap": "node ./bootstrap-fauna-database.js"
+    "bootstrap": "node netlify/bootstrap-fauna-database.js"
   },
   "dependencies": {
     "@babel/core": "^7.14.2",
